@@ -1,0 +1,716 @@
+{
+  "Alabama": {
+    "lat": 32.806671,
+    "lon": -86.79113,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 52,
+      "2026": 78
+    },
+    "factores": {
+      "humedad": 56,
+      "temperatura": 28,
+      "saturacion_hospitalaria": 69
+    }
+  },
+  "Alaska": {
+    "lat": 61.370716,
+    "lon": -152.404419,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 6,
+      "2026": 13
+    },
+    "factores": {
+      "humedad": 40,
+      "temperatura": 30,
+      "saturacion_hospitalaria": 75
+    }
+  },
+  "Arizona": {
+    "lat": 33.729759,
+    "lon": -111.431221,
+    "riesgo": "Medio",
+    "predicciones": {
+      "2025": 186,
+      "2026": 198
+    },
+    "factores": {
+      "humedad": 44,
+      "temperatura": 35,
+      "saturacion_hospitalaria": 61
+    }
+  },
+  "Arkansas": {
+    "lat": 34.969704,
+    "lon": -92.373123,
+    "riesgo": "Medio",
+    "predicciones": {
+      "2025": 76,
+      "2026": 102
+    },
+    "factores": {
+      "humedad": 71,
+      "temperatura": 23,
+      "saturacion_hospitalaria": 48
+    }
+  },
+  "California": {
+    "lat": 36.116203,
+    "lon": -119.681564,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 697,
+      "2026": 752
+    },
+    "factores": {
+      "humedad": 28,
+      "temperatura": 42,
+      "saturacion_hospitalaria": 48
+    }
+  },
+  "Colorado": {
+    "lat": 39.059811,
+    "lon": -105.311104,
+    "riesgo": "Muy bajo",
+    "predicciones": {
+      "2025": 25,
+      "2026": 26
+    },
+    "factores": {
+      "humedad": 75,
+      "temperatura": 27,
+      "saturacion_hospitalaria": 85
+    }
+  },
+  "Connecticut": {
+    "lat": 41.597782,
+    "lon": -72.755371,
+    "riesgo": "Medio",
+    "predicciones": {
+      "2025": 85,
+      "2026": 112
+    },
+    "factores": {
+      "humedad": 47,
+      "temperatura": 27,
+      "saturacion_hospitalaria": 57
+    }
+  },
+  "Delaware": {
+    "lat": 39.318523,
+    "lon": -75.507141,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 41,
+      "2026": 44
+    },
+    "factores": {
+      "humedad": 29,
+      "temperatura": 32,
+      "saturacion_hospitalaria": 97
+    }
+  },
+  "District of Columbia": {
+    "lat": 38.897438,
+    "lon": -77.026817,
+    "riesgo": "Medio",
+    "predicciones": {
+      "2025": 253,
+      "2026": 281
+    },
+    "factores": {
+      "humedad": 85,
+      "temperatura": 38,
+      "saturacion_hospitalaria": 47
+    }
+  },
+  "Florida": {
+    "lat": 27.766279,
+    "lon": -81.686783,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 509,
+      "2026": 533
+    },
+    "factores": {
+      "humedad": 84,
+      "temperatura": 28,
+      "saturacion_hospitalaria": 54
+    }
+  },
+  "Georgia": {
+    "lat": 33.040619,
+    "lon": -83.643074,
+    "riesgo": "Medio",
+    "predicciones": {
+      "2025": 344,
+      "2026": 385
+    },
+    "factores": {
+      "humedad": 83,
+      "temperatura": 30,
+      "saturacion_hospitalaria": 83
+    }
+  },
+  "Hawaii": {
+    "lat": 21.094318,
+    "lon": -157.498337,
+    "riesgo": "Muy bajo",
+    "predicciones": {
+      "2025": 20,
+      "2026": 22
+    },
+    "factores": {
+      "humedad": 34,
+      "temperatura": 37,
+      "saturacion_hospitalaria": 64
+    }
+  },
+  "Idaho": {
+    "lat": 44.240459,
+    "lon": -114.478828,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 4,
+      "2026": 4
+    },
+    "factores": {
+      "humedad": 37,
+      "temperatura": 29,
+      "saturacion_hospitalaria": 97
+    }
+  },
+  "Illinois": {
+    "lat": 40.349457,
+    "lon": -88.986137,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 820,
+      "2026": 884
+    },
+    "factores": {
+      "humedad": 52,
+      "temperatura": 41,
+      "saturacion_hospitalaria": 77
+    }
+  },
+  "Indiana": {
+    "lat": 39.849426,
+    "lon": -86.258278,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 527,
+      "2026": 590
+    },
+    "factores": {
+      "humedad": 47,
+      "temperatura": 36,
+      "saturacion_hospitalaria": 49
+    }
+  },
+  "Iowa": {
+    "lat": 42.011539,
+    "lon": -93.210526,
+    "riesgo": "Medio",
+    "predicciones": {
+      "2025": 88,
+      "2026": 123
+    },
+    "factores": {
+      "humedad": 79,
+      "temperatura": 35,
+      "saturacion_hospitalaria": 93
+    }
+  },
+  "Kansas": {
+    "lat": 38.5266,
+    "lon": -96.726486,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 4,
+      "2026": 4
+    },
+    "factores": {
+      "humedad": 51,
+      "temperatura": 33,
+      "saturacion_hospitalaria": 88
+    }
+  },
+  "Kentucky": {
+    "lat": 37.66814,
+    "lon": -84.670067,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 93,
+      "2026": 104
+    },
+    "factores": {
+      "humedad": 51,
+      "temperatura": 31,
+      "saturacion_hospitalaria": 47
+    }
+  },
+  "Louisiana": {
+    "lat": 31.169546,
+    "lon": -91.867805,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 36,
+      "2026": 39
+    },
+    "factores": {
+      "humedad": 79,
+      "temperatura": 30,
+      "saturacion_hospitalaria": 40
+    }
+  },
+  "Maine": {
+    "lat": 44.693947,
+    "lon": -69.381927,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 1,
+      "2026": 1
+    },
+    "factores": {
+      "humedad": 77,
+      "temperatura": 24,
+      "saturacion_hospitalaria": 63
+    }
+  },
+  "Maryland": {
+    "lat": 39.063946,
+    "lon": -76.802101,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 382,
+      "2026": 423
+    },
+    "factores": {
+      "humedad": 57,
+      "temperatura": 24,
+      "saturacion_hospitalaria": 86
+    }
+  },
+  "Massachusetts": {
+    "lat": 42.230171,
+    "lon": -71.530106,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 52,
+      "2026": 55
+    },
+    "factores": {
+      "humedad": 49,
+      "temperatura": 23,
+      "saturacion_hospitalaria": 81
+    }
+  },
+  "Michigan": {
+    "lat": 43.326618,
+    "lon": -84.536095,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 310,
+      "2026": 408
+    },
+    "factores": {
+      "humedad": 70,
+      "temperatura": 39,
+      "saturacion_hospitalaria": 43
+    }
+  },
+  "Minnesota": {
+    "lat": 45.694454,
+    "lon": -93.900192,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 58,
+      "2026": 66
+    },
+    "factores": {
+      "humedad": 80,
+      "temperatura": 36,
+      "saturacion_hospitalaria": 98
+    }
+  },
+  "Mississippi": {
+    "lat": 32.741646,
+    "lon": -89.678696,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 31,
+      "2026": 33
+    },
+    "factores": {
+      "humedad": 26,
+      "temperatura": 21,
+      "saturacion_hospitalaria": 58
+    }
+  },
+  "Missouri": {
+    "lat": 38.456085,
+    "lon": -92.288368,
+    "riesgo": "Muy bajo",
+    "predicciones": {
+      "2025": 20,
+      "2026": 22
+    },
+    "factores": {
+      "humedad": 18,
+      "temperatura": 42,
+      "saturacion_hospitalaria": 61
+    }
+  },
+  "Montana": {
+    "lat": 46.921925,
+    "lon": -110.454353,
+    "riesgo": "Muy bajo",
+    "predicciones": {
+      "2025": 3,
+      "2026": 7
+    },
+    "factores": {
+      "humedad": 85,
+      "temperatura": 37,
+      "saturacion_hospitalaria": 91
+    }
+  },
+  "Nebraska": {
+    "lat": 41.12537,
+    "lon": -98.268082,
+    "riesgo": "Muy bajo",
+    "predicciones": {
+      "2025": 13,
+      "2026": 14
+    },
+    "factores": {
+      "humedad": 15,
+      "temperatura": 39,
+      "saturacion_hospitalaria": 83
+    }
+  },
+  "Nevada": {
+    "lat": 38.313515,
+    "lon": -117.055374,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 469,
+      "2026": 513
+    },
+    "factores": {
+      "humedad": 85,
+      "temperatura": 36,
+      "saturacion_hospitalaria": 62
+    }
+  },
+  "New Hampshire": {
+    "lat": 43.452492,
+    "lon": -71.563896,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 1,
+      "2026": 1
+    },
+    "factores": {
+      "humedad": 75,
+      "temperatura": 35,
+      "saturacion_hospitalaria": 58
+    }
+  },
+  "New Jersey": {
+    "lat": 40.298904,
+    "lon": -74.521011,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 685,
+      "2026": 776
+    },
+    "factores": {
+      "humedad": 18,
+      "temperatura": 41,
+      "saturacion_hospitalaria": 83
+    }
+  },
+  "New Mexico": {
+    "lat": 34.840515,
+    "lon": -106.248482,
+    "riesgo": "Muy bajo",
+    "predicciones": {
+      "2025": 15,
+      "2026": 15
+    },
+    "factores": {
+      "humedad": 28,
+      "temperatura": 30,
+      "saturacion_hospitalaria": 93
+    }
+  },
+  "New York": {
+    "lat": 42.165726,
+    "lon": -74.948051,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 576,
+      "2026": 613
+    },
+    "factores": {
+      "humedad": 65,
+      "temperatura": 26,
+      "saturacion_hospitalaria": 96
+    }
+  },
+  "North Carolina": {
+    "lat": 35.630066,
+    "lon": -79.806419,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 56,
+      "2026": 59
+    },
+    "factores": {
+      "humedad": 40,
+      "temperatura": 39,
+      "saturacion_hospitalaria": 94
+    }
+  },
+  "North Dakota": {
+    "lat": 47.528912,
+    "lon": -99.784012,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 2,
+      "2026": 2
+    },
+    "factores": {
+      "humedad": 66,
+      "temperatura": 29,
+      "saturacion_hospitalaria": 87
+    }
+  },
+  "Ohio": {
+    "lat": 40.388783,
+    "lon": -82.764915,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 752,
+      "2026": 820
+    },
+    "factores": {
+      "humedad": 37,
+      "temperatura": 26,
+      "saturacion_hospitalaria": 55
+    }
+  },
+  "Oklahoma": {
+    "lat": 35.565342,
+    "lon": -96.928917,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 73,
+      "2026": 77
+    },
+    "factores": {
+      "humedad": 70,
+      "temperatura": 39,
+      "saturacion_hospitalaria": 58
+    }
+  },
+  "Oregon": {
+    "lat": 44.572021,
+    "lon": -122.070938,
+    "riesgo": "Muy bajo",
+    "predicciones": {
+      "2025": 6,
+      "2026": 6
+    },
+    "factores": {
+      "humedad": 83,
+      "temperatura": 29,
+      "saturacion_hospitalaria": 84
+    }
+  },
+  "Pennsylvania": {
+    "lat": 40.590752,
+    "lon": -77.209755,
+    "riesgo": "Medio",
+    "predicciones": {
+      "2025": 267,
+      "2026": 295
+    },
+    "factores": {
+      "humedad": 83,
+      "temperatura": 20,
+      "saturacion_hospitalaria": 96
+    }
+  },
+  "Rhode Island": {
+    "lat": 41.680893,
+    "lon": -71.51178,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 2,
+      "2026": 2
+    },
+    "factores": {
+      "humedad": 20,
+      "temperatura": 38,
+      "saturacion_hospitalaria": 83
+    }
+  },
+  "South Carolina": {
+    "lat": 33.856892,
+    "lon": -80.945007,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 44,
+      "2026": 45
+    },
+    "factores": {
+      "humedad": 31,
+      "temperatura": 24,
+      "saturacion_hospitalaria": 73
+    }
+  },
+  "South Dakota": {
+    "lat": 44.299782,
+    "lon": -99.438828,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 1,
+      "2026": 1
+    },
+    "factores": {
+      "humedad": 55,
+      "temperatura": 34,
+      "saturacion_hospitalaria": 65
+    }
+  },
+  "Tennessee": {
+    "lat": 35.747845,
+    "lon": -86.692345,
+    "riesgo": "Medio",
+    "predicciones": {
+      "2025": 199,
+      "2026": 218
+    },
+    "factores": {
+      "humedad": 26,
+      "temperatura": 39,
+      "saturacion_hospitalaria": 72
+    }
+  },
+  "Texas": {
+    "lat": 31.054487,
+    "lon": -97.563461,
+    "riesgo": "Alto",
+    "predicciones": {
+      "2025": 460,
+      "2026": 523
+    },
+    "factores": {
+      "humedad": 17,
+      "temperatura": 35,
+      "saturacion_hospitalaria": 57
+    }
+  },
+  "Utah": {
+    "lat": 40.150032,
+    "lon": -111.862434,
+    "riesgo": "Muy bajo",
+    "predicciones": {
+      "2025": 15,
+      "2026": 15
+    },
+    "factores": {
+      "humedad": 78,
+      "temperatura": 24,
+      "saturacion_hospitalaria": 97
+    }
+  },
+  "Vermont": {
+    "lat": 44.045876,
+    "lon": -72.710686,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 3,
+      "2026": 3
+    },
+    "factores": {
+      "humedad": 51,
+      "temperatura": 26,
+      "saturacion_hospitalaria": 70
+    }
+  },
+  "Virginia": {
+    "lat": 37.769337,
+    "lon": -78.169968,
+    "riesgo": "Medio",
+    "predicciones": {
+      "2025": 164,
+      "2026": 175
+    },
+    "factores": {
+      "humedad": 32,
+      "temperatura": 26,
+      "saturacion_hospitalaria": 61
+    }
+  },
+  "Washington": {
+    "lat": 47.400902,
+    "lon": -121.490494,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 0,
+      "2026": 0
+    },
+    "factores": {
+      "humedad": 16,
+      "temperatura": 21,
+      "saturacion_hospitalaria": 40
+    }
+  },
+  "West Virginia": {
+    "lat": 38.491226,
+    "lon": -80.95457,
+    "riesgo": "Muy bajo",
+    "predicciones": {
+      "2025": 8,
+      "2026": 9
+    },
+    "factores": {
+      "humedad": 32,
+      "temperatura": 28,
+      "saturacion_hospitalaria": 54
+    }
+  },
+  "Wisconsin": {
+    "lat": 44.268543,
+    "lon": -89.616508,
+    "riesgo": "Bajo",
+    "predicciones": {
+      "2025": 42,
+      "2026": 45
+    },
+    "factores": {
+      "humedad": 28,
+      "temperatura": 42,
+      "saturacion_hospitalaria": 58
+    }
+  },
+  "Wyoming": {
+    "lat": 42.755966,
+    "lon": -107.30249,
+    "riesgo": "Sin datos",
+    "predicciones": {
+      "2025": 2,
+      "2026": 2
+    },
+    "factores": {
+      "humedad": 68,
+      "temperatura": 29,
+      "saturacion_hospitalaria": 41
+    }
+  }
+}
