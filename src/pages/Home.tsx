@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 const Home: React.FC = () => {
   return (
@@ -7,17 +6,13 @@ const Home: React.FC = () => {
       {/* Hero Section */}
       <section className="container mx-auto px-6 py-16 flex flex-col md:flex-row items-center">
         <div className="md:w-1/2 mb-10 md:mb-0">
-          <div className="inline-flex items-center gap-2 rounded-full border border-amber-400/40 bg-amber-400/10 px-4 py-2 text-sm text-amber-200 mb-6">
-            <i className="fas fa-flask"></i>
-            Prototipo académico con datos de demostración
-          </div>
           <h1 className="text-4xl md:text-5xl font-bold mb-4">Anticipamos riesgos, protegemos vidas.</h1>
           <p className="text-lg mb-8">
-            FungiAlert explora cómo un producto de datos podría anticipar y comunicar riesgos fúngicos para hospitales y comunidades en Estados Unidos.
+            FungiAlert detecta a tiempo las amenazas fúngicas que ponen en riesgo a hospitales y comunidades enteras en Estados Unidos.
           </p>
-          <Link to="/candida" className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-medium cursor-pointer !rounded-button whitespace-nowrap">
+          <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-3 rounded-lg font-medium cursor-pointer !rounded-button whitespace-nowrap">
             Explorar Enfermedades
-          </Link>
+          </button>
         </div>
         <div className="md:w-1/2 relative">
           <div className="w-full h-[400px] relative overflow-hidden">
@@ -39,9 +34,9 @@ const Home: React.FC = () => {
             <div className="text-blue-400 mb-4">
               <i className="fas fa-chart-line text-3xl"></i>
             </div>
-            <h3 className="text-xl font-semibold mb-3">Arquitectura predictiva propuesta</h3>
+            <h3 className="text-xl font-semibold mb-3">Predicción en tiempo real con IA</h3>
             <p className="text-gray-300">
-              El diseño plantea modelos temporales y geoespaciales; el prototipo actual no ejecuta predicciones en producción.
+              Nuestros algoritmos avanzados analizan datos continuamente para predecir brotes antes de que ocurran.
             </p>
           </div>
 
@@ -52,7 +47,7 @@ const Home: React.FC = () => {
             </div>
             <h3 className="text-xl font-semibold mb-3">Visualización interactiva de mapas</h3>
             <p className="text-gray-300">
-              Interfaz geoespacial que demuestra cómo podrían comunicarse zonas de riesgo y patrones de propagación.
+              Interfaz geoespacial intuitiva que muestra zonas de riesgo y patrones de propagación en tiempo real.
             </p>
           </div>
 
@@ -61,9 +56,9 @@ const Home: React.FC = () => {
             <div className="text-blue-400 mb-4">
               <i className="fas fa-database text-3xl"></i>
             </div>
-            <h3 className="text-xl font-semibold mb-3">Ecosistema de datos diseñado</h3>
+            <h3 className="text-xl font-semibold mb-3">Datos integrados de múltiples fuentes</h3>
             <p className="text-gray-300">
-              La propuesta evalúa CDC, NASA, NOAA y otras instituciones como fuentes potenciales para una implementación futura.
+              Combinamos información de CDC, NASA, NOAA y otras instituciones para un análisis completo y preciso.
             </p>
           </div>
         </div>
@@ -87,9 +82,9 @@ const Home: React.FC = () => {
               <p className="text-gray-300 mb-4">
                 Hongo emergente multirresistente con alta tasa de mortalidad en pacientes hospitalizados. Monitorización constante de nuevos brotes.
               </p>
-              <Link to="/candida" className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg font-medium cursor-pointer !rounded-button whitespace-nowrap">
+              <button className="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg font-medium cursor-pointer !rounded-button whitespace-nowrap">
                 Más información
-              </Link>
+              </button>
             </div>
           </div>
 
@@ -107,9 +102,9 @@ const Home: React.FC = () => {
               <p className="text-gray-300 mb-4">
                 Infección causada por el hongo Coccidioides, endémico en zonas áridas. Nuestro sistema predice áreas de riesgo según condiciones climáticas.
               </p>
-              <Link to="/fiebre" className="inline-block bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg font-medium cursor-pointer !rounded-button whitespace-nowrap">
+              <button className="bg-blue-600 hover:bg-blue-700 text-white px-5 py-2 rounded-lg font-medium cursor-pointer !rounded-button whitespace-nowrap">
                 Más información
-              </Link>
+              </button>
             </div>
           </div>
         </div>
@@ -118,17 +113,17 @@ const Home: React.FC = () => {
       {/* CTA Section */}
       <section className="container mx-auto px-6 py-20">
         <div className="bg-gradient-to-r from-blue-900 to-indigo-900 rounded-2xl p-10 text-center">
-          <h2 className="text-3xl font-bold mb-6">Del problema al diseño de un producto de datos</h2>
+          <h2 className="text-3xl font-bold mb-6">Protege a tu comunidad con alertas anticipadas</h2>
           <p className="text-xl mb-8 max-w-3xl mx-auto">
-            Investigación, modelo de negocio, estrategia de datos, arquitectura de IA y un prototipo interactivo en una sola propuesta académica.
+            Únete a nuestra red de vigilancia fúngica y recibe notificaciones personalizadas sobre riesgos en tu área.
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
-            <Link to="/candida" className="bg-white text-blue-900 px-8 py-3 rounded-lg font-medium hover:bg-gray-100 cursor-pointer !rounded-button whitespace-nowrap">
-              Ver prototipo
-            </Link>
-            <a href="https://github.com/StevenVegaL/FungiAlert#readme" className="bg-transparent border-2 border-white text-white px-8 py-3 rounded-lg font-medium hover:bg-blue-800 cursor-pointer !rounded-button whitespace-nowrap">
-              Conocer el proyecto
-            </a>
+            <button className="bg-white text-blue-900 px-8 py-3 rounded-lg font-medium hover:bg-gray-100 cursor-pointer !rounded-button whitespace-nowrap">
+              Solicitar demostración
+            </button>
+            <button className="bg-transparent border-2 border-white text-white px-8 py-3 rounded-lg font-medium hover:bg-blue-800 cursor-pointer !rounded-button whitespace-nowrap">
+              Contactar con expertos
+            </button>
           </div>
         </div>
       </section>

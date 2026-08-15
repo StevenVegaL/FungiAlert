@@ -4,6 +4,7 @@ import { HashRouter as Router, Routes, Route, Link, useLocation } from 'react-ro
 const Home = lazy(() => import('./pages/Home'));
 const CandidaAuris = lazy(() => import('./pages/CandidaAuris'));
 const Fiebre = lazy(() => import('./pages/FiebreDelValle'));
+const Contacto = lazy(() => import('./pages/Contacto'));
 
 const Navbar: React.FC = () => {
   const location = useLocation();
@@ -35,6 +36,12 @@ const Navbar: React.FC = () => {
           <Link to="/fiebre" className={getTabClass('/fiebre')}>
             Fiebre del valle
           </Link>
+          <Link to="/contacto" className={getTabClass('/contacto')}>
+            Contacto
+            {location.pathname === '/contacto' && (
+              <span className="absolute bottom-[-8px] left-0 w-full h-0.5 bg-gradient-to-r from-blue-500 to-purple-500"></span>
+            )}
+          </Link>
         </nav>
       </div>
     </header>
@@ -51,6 +58,7 @@ const App: React.FC = () => {
             <Route path="/" element={<Home />} />
             <Route path="/candida" element={<CandidaAuris />} />
             <Route path="/fiebre" element={<Fiebre />} />
+            <Route path="/contacto" element={<Contacto />} />
           </Routes>
         </Suspense>
       </div>
